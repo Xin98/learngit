@@ -6,3 +6,4 @@ Creating a new branch is quick and simple.
 master branch.
 conflict fixed.
 new conflict.
+new work.
